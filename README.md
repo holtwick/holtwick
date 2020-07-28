@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a passionate software developer for web, mobile and desktop apps, located in Mülheim an der Ruhr, Germany. I currently create and distribute free and commercial apps. Previously I have been working for companies like [Evernote](https://evernote.com) and [Cellular](https://www.cellular.de).
+
+If you like to get in touch follow me on [Twitter](https://github.com/holtwick), read my [blog](https://holtwick.de/blog/) or write an [email](mailto:hello@holtwick.de).
+
+
+Dirk Holtwick
+
 <!--
 **holtwick/holtwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
