@@ -1,4 +1,4 @@
-I am an enthusiastic software developer for web, mobile and desktop applications based in Germany. Currently I create and distribute free and commercial applications. Previously  
+I am an enthusiastic software developer for web, mobile and desktop applications based in Germany. Currently I create and distribute free and commercial applications.   
 
 My goal is to develop appealing applications for communication and knowledge storage while creating the best possible privacy solution.  
   
